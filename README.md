@@ -3,7 +3,8 @@ My name is Carlos Pallo a Chem Eng student by Atlantic University, Barranquilla,
 In this profile you can find different project focused to some many assignatures at long time my carrer.
 
 ### Contact
-[![Instagram](https://img.shields.io/badge/Instagram-@carlos.pm7-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/carlos.pm7)
+[![Instagram](https://img.shields.io/badge/Instagram-@carlos.pm7-purple?style=flat-square&logo=instagram&logoColor=white&labelColor=blue)](https://www.instagram.com/carlos.pm7/)
+
 
 <!--
 **cpm-cp/cpm-cp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
