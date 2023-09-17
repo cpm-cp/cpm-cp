@@ -3,7 +3,7 @@ My name is Carlos Pallo a Chem Eng student by Atlantic University, Barranquilla,
 In this profile you can find different project focused to some many assignatures at long time my carrer.
 
 ### Contact
-[![Instagram](https://img.shields.io/badge/Instagram-@carlos.pm7-purple?style=plastic-flat&logo=instagram&logoColor=white&labelColor=blue)](https://www.instagram.com/carlos.pm7/)
+[![Instagram](https://img.shields.io/badge/Instagram-@carlos.pm7-purple?style=plastic-flat&logo=instagram&logoColor=white&labelColor=black)](https://www.instagram.com/carlos.pm7/)
 
 
 <!--
