@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Carlos Pallo a Chem Eng student by Atlantic University, Barranquilla, Colombia.
-In this profile you can find different project focused to some many assignature at long time my carrer.
+In this profile you can find different project focused to some many assignatures at long time my carrer.
 
 ## Contact
 [Instagram](https://www.instagram.com/carlos.pm7/)
