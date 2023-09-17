@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Carlos Pallo a Chem Eng student by Atlantic University, Barranquilla, Colombia.
+In this profile you can find different project focused to some many assignature at long time my carrer.
+
+## Contact
+[Instagram](https://www.instagram.com/carlos.pm7/)
 
 <!--
 **cpm-cp/cpm-cp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
